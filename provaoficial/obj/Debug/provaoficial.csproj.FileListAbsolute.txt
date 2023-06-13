@@ -1,0 +1,12 @@
+C:\Users\2022102020045\source\repos\provaoficial\provaoficial\bin\Debug\provaoficial.exe.config
+C:\Users\2022102020045\source\repos\provaoficial\provaoficial\bin\Debug\provaoficial.exe
+C:\Users\2022102020045\source\repos\provaoficial\provaoficial\bin\Debug\provaoficial.pdb
+C:\Users\2022102020045\source\repos\provaoficial\provaoficial\obj\Debug\provaoficial.csproj.AssemblyReference.cache
+C:\Users\2022102020045\source\repos\provaoficial\provaoficial\obj\Debug\provaoficial.csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020045\source\repos\provaoficial\provaoficial\obj\Debug\provaoficial.correcao.resources
+C:\Users\2022102020045\source\repos\provaoficial\provaoficial\obj\Debug\provaoficial.Properties.Resources.resources
+C:\Users\2022102020045\source\repos\provaoficial\provaoficial\obj\Debug\provaoficial.csproj.GenerateResource.cache
+C:\Users\2022102020045\source\repos\provaoficial\provaoficial\obj\Debug\provaoficial.csproj.CoreCompileInputs.cache
+C:\Users\2022102020045\source\repos\provaoficial\provaoficial\obj\Debug\provaoficial.exe
+C:\Users\2022102020045\source\repos\provaoficial\provaoficial\obj\Debug\provaoficial.pdb
+C:\Users\2022102020045\source\repos\provaoficial\provaoficial\obj\Debug\provaoficial.gabarito.resources
